@@ -47,7 +47,7 @@ git clone https://github.com/juliocabrera820/tmux-gleam-theme ~/.tmux/plugins/tm
 Add this line to your `~/.tmux.conf`:
 
 ```bash
-source-file ~/.tmux/plugins/tmux-gleam-theme/gleam-theme.tmux
+source-file ~/.tmux/plugins/tmux-gleam-theme/gleam.tmux
 ```
 
 Reload tmux configuration:
@@ -58,7 +58,7 @@ tmux source-file ~/.tmux.conf
 
 ## Customization
 
-You can customize the theme by copying `gleam-theme.tmux` to your tmux configuration directory and modifying the colors and formats to your liking.
+You can customize the theme by copying `gleam.tmux` to your tmux configuration directory and modifying the colors and formats to your liking.
 
 ## Key Bindings Reference
 
